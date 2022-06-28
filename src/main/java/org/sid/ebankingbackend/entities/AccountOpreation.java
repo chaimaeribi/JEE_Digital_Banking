@@ -3,7 +3,6 @@ package org.sid.ebankingbackend.entities;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import net.bytebuddy.dynamic.loading.InjectionClassLoader;
 import org.sid.ebankingbackend.enums.OperationType;
 
 import javax.persistence.*;
